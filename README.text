@@ -1,0 +1,12 @@
+Implemented features
+
+Required features
+1) add vertical motion to the bubble
+2) collision between bubble and bullet
+3) collision between shooter and bubble
+Extra features
+1) Bubbles of different sizes which split when bullet hits
+2) A score, time and a health counter.
+
+Google drive link
+https://drive.google.com/file/d/1ZJP6w-Gab0dh5QIJjMbFo9MgFpps4KYW/view?usp=sharing
